@@ -200,6 +200,9 @@ body{
         content: '|';
     }
 }
+.banner img{
+    border: 4px solid #22bedd;
+}
 .Section_title{
     text-align: center;
 } 
